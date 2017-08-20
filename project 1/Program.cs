@@ -10,6 +10,7 @@ namespace project_1
     {
         static void Main(string[] args)
         {
+            // this iws my frist program
             Console.WriteLine("HELLO WORLD");
             Console.ReadKey();
         }
